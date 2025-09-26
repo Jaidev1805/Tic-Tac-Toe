@@ -23,10 +23,10 @@ This project focuses on using **factory functions** and the **module pattern** t
 
 ## 📂 Project Structure
 tic-tac-toe/
-│── index.html # Main HTML file
-│── style.css # Styling
-│── script.js # Game logic & UI handling
-│── README.md # Project documentation
+ - │── index.html # Main HTML file
+ - │── style.css # Styling
+ - │── script.js # Game logic & UI handling
+ - │── README.md # Project documentation
 
 ---
 
